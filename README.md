@@ -1,2 +1,2 @@
 # Dummy_Project
-the working branch, collaborators may add and changes the files through this branch
+Hello to the "Project Branch", collaborators may add and changes the files through this branch
