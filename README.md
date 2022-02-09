@@ -1,2 +1,2 @@
 # Dummy_Project
-This project contains dummy files. It is created for testing 
+the working branch, collaborators may add and changes the files through this branch
