@@ -31,6 +31,7 @@ public class RunningMin_Max
     }
 }
 
+
 /*
 Sample Output:
 This program evaluates Minimum and Maximum of the entered numbers
