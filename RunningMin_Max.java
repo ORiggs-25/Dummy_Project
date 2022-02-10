@@ -1,6 +1,5 @@
 import java.util.Scanner;
 
-
 public class RunningMin_Max
 {
     public static void main (String[] args)
