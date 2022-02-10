@@ -1,10 +1,9 @@
 import java.util.Scanner;
-
 public class RunningMin_Max
 {
     public static void main (String[] args)
     {
-        int num1 = 0; //hold the user input
+        int num1; //hold the user input
         int max = 0; //holds max
         int min = 0; //holds min
 
@@ -20,7 +19,7 @@ public class RunningMin_Max
             {
                 min = num1;
             }
-            else if ((num1 > max ) && (num1 != -99))
+            else if (num1 > max )
             {
                 max = num1;
             }
