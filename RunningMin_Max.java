@@ -26,7 +26,7 @@ public class RunningMin_Max
         } while (num1 != -99);
 
         System.out.println("The maximum number is " + max + ".");
-        System.out.println("The minimum number is " + min + ".\n\n\n" +
+        System.out.println("The minimum number is " + min + ".\n\n" +
                 "Program ends.");
     }
 }
