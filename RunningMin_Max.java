@@ -43,7 +43,6 @@ Please enter integer numbers, enter -99 to stop
 The maximum number is 55.
 The minimum number is 33.
 
-
 Program ends.
  */
 
