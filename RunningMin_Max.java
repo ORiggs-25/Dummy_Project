@@ -8,7 +8,7 @@ public class RunningMin_Max
         int min = 0; //holds min
 
         Scanner keyboard = new Scanner (System.in);
-        System.out.println("This program evaluate Minimum and Maximum of the entered numbers \n" +
+        System.out.println("This program evaluates Minimum and Maximum of the entered numbers \n" +
                 "Please enter integer numbers, enter -99 to stop");
 
         do
@@ -31,7 +31,21 @@ public class RunningMin_Max
     }
 }
 
+/*
+Sample Output:
+This program evaluates Minimum and Maximum of the entered numbers
+Please enter integer numbers, enter -99 to stop
+22
+44
+55
+33
+-99
+The maximum number is 55.
+The minimum number is 33.
 
+
+Program ends.
+ */
 
 
 
